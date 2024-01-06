@@ -1,70 +1,64 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Netflix Clone Projesi
 
-In the project directory, you can run:
+####HomePage
+![HomePage](./screenshots/screenshots.png)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Bu proje, popüler video akışı hizmeti Netflix'in bir klonudur. Bu uygulama, React ve modern web teknolojileri kullanılarak oluşturulmuştur. Firebase ve Tailwind CSS gibi teknolojiler de kullanılmıştır.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Özellikler
 
-### `npm test`
+### Hesap Yönetimi
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Kullanıcılar, uygulamada yeni bir hesap oluşturabilirler.
+- Kullanıcılar, hesaplarını istedikleri zaman kapatabilirler.
 
-### `npm run build`
+### Kayıt Olma
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Kullanıcılar, uygulamada yeni bir hesap oluşturmak için kaydolabilirler.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Film Beğenme
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Kullanıcılar, izledikleri ve beğendikleri filmleri beğenebilirler.
+- Beğenilen filmler, kullanıcının hesap sayfasında listelenir.
+- Kullanıcılar, beğendikleri filmleri seçebilir veya kaldırabilirler.
 
-### `npm run eject`
+## Teknolojiler
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React: Modern bir JavaScript kütüphanesi olan React, bu projenin temelini oluşturur.
+- Firebase: Firebase, bu projede veritabanı ve kimlik doğrulama gibi hizmetler sağlar.
+- Tailwind CSS: Bu proje, Tailwind CSS kullanılarak stilize edilmiştir.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Kurulum
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Projenin kurulumu için aşağıdaki adımları izleyin:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Repoyu klonlayın: `git clone https://github.com/cemkarakuss/netflix-clone.git`
+2. Bağımlılıkları yükleyin: `npm install`
+3. Uygulamayı başlatın: `npm start`
 
-## Learn More
+## Katkıda Bulunma
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Katkıda bulunmak için lütfen aşağıdaki adımları izleyin:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Fork'layın
+2. Özelliğinizi veya düzeltmenizi yaptığınız bir dal oluşturun (`git checkout -b feature/fancyFeature`)
+3. Değişikliklerinizi işleyin (`git commit -am 'Add some fancyFeature'`)
+4. Dalınıza itin (`git push origin feature/fancyFeature`)
+5. Yeni bir Pull Request oluşturun
 
-### Code Splitting
+## Lisans
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Bu proje MIT lisansı altında lisanslanmıştır.
 
-### Analyzing the Bundle Size
+####SignInPage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![SignInPage](./screenshots/screenshots2.png)
+####SignUpPage
 
-### Making a Progressive Web App
+![SignUpPage](./screenshots/screenshots3.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+####AccountPage
+![AccountPage](./screenshots/screenshots4.png)
