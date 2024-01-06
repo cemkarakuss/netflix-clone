@@ -2,11 +2,13 @@
 
 # Netflix Clone Projesi
 
-####HomePage
+#### HomePage
 ![HomePage](./screenshots/screenshots.png)
 
 
 Bu proje, popüler video akışı hizmeti Netflix'in bir klonudur. Bu uygulama, React ve modern web teknolojileri kullanılarak oluşturulmuştur. Firebase ve Tailwind CSS gibi teknolojiler de kullanılmıştır.
+
+[Canlı Proje](https://netflix-cloneblackbird-app.web.app/)
 
 ## Özellikler
 
@@ -53,12 +55,12 @@ Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Katkıda bulunmak 
 
 Bu proje MIT lisansı altında lisanslanmıştır.
 
-####SignInPage
+#### SignInPage
 
 ![SignInPage](./screenshots/screenshots2.png)
-####SignUpPage
+#### SignUpPage
 
 ![SignUpPage](./screenshots/screenshots3.png)
 
-####AccountPage
+#### AccountPage
 ![AccountPage](./screenshots/screenshots4.png)
