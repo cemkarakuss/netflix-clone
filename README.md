@@ -3,7 +3,7 @@
 # Netflix Clone Projesi
 
 #### HomePage
-![HomePage](./screenshots/screenshots.png)
+![HomePage](./screenshots/screenshots4.png)
 
 
 Bu proje, popüler video akışı hizmeti Netflix'in bir klonudur. Bu uygulama, React ve modern web teknolojileri kullanılarak oluşturulmuştur. Firebase ve Tailwind CSS gibi teknolojiler de kullanılmıştır.
@@ -51,9 +51,6 @@ Bu proje açık kaynaklıdır ve katkılarınıza açıktır. Katkıda bulunmak 
 4. Dalınıza itin (`git push origin feature/fancyFeature`)
 5. Yeni bir Pull Request oluşturun
 
-## Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
 
 #### SignInPage
 
@@ -63,4 +60,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 ![SignUpPage](./screenshots/screenshots3.png)
 
 #### AccountPage
-![AccountPage](./screenshots/screenshots4.png)
+![AccountPage](./screenshots/screenshots.png)
